@@ -1,2 +1,2 @@
-My first readme
-good programmer in alx
+MY FIRST README IN ALX
+README.md my second commit
